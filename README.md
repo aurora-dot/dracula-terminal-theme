@@ -2,7 +2,7 @@
 
 Ghost theme to emulate an 80 character-wide terminal.
 
-Changed the coloyr scheme to dracula and removed image filter
+Changed the colour scheme to dracula and removed image filter compared to [the original](https://github.com/sam-lord/terminal-theme)
 
 ## Download
 
