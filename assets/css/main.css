@@ -22,11 +22,11 @@
 /* Variable declaration */
 :root {
     --line-height: 1.25em;
-    --color: var(--nord5);
-    --secondary-color: var(--nord3);
-    --accent-color: var(--nord15);
-    --link-color: var(--nord8);
-    --bg-color: var(--nord0);
+    --color: var(--dracula2);
+    --secondary-color: var(--dracula3);
+    --accent-color: var(--dracula8);
+    --link-color: var(--dracula7);
+    --bg-color: var(--dracula0);
     --character-width: 0.6em;
     --page-width: calc(var(--character-width) * 80);
     --border-width: 1px;
@@ -45,7 +45,7 @@ body {
     line-height: var(--line-height);
     display: flex;
     justify-content: center;
-    background-color: var(--nord1);
+    background-color: var(--dracula1);
 }
 /* Main class */
 body > .terminal {
